@@ -1,7 +1,7 @@
 <h3 align="left">Bonjour, I am Justin 🙇🏻‍♂️</h3>
 <p align="left">Junior Full-Stack Developer from France, currently based in Tokyo, Japan</p>
 <h4 align="left">Connect with me:</h4>
-<div>
+<div align="left">
   <ul>
     <li>Linkedin: <a href="https://www.linkedin.com/in/justin-etienne/">Justin Etienne</a></li>
     <li>Portfolio: <a href="">SoonTM</a></li>
