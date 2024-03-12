@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour, I am Justin</h1>
+<h1 align="left">Bonjour, I am Justin</h1>
 <h3 align="center">Junior Full-Stack Developer from France, currently based in Tokyo, Japan</h3>
 
 
