@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li>Linkedin: <a href="https://www.linkedin.com/in/justin-etienne/">Justin Etienne</a></li>
-  <li>Email: juetienne7@gmail.com</li>
+  <li>Portfolio: <a href="">SoonTM</a></li>
 </ul>
 <p align="left"></p
 <h3 align="left">Languages and Tools:</h3>
