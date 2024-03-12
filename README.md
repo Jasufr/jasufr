@@ -1,5 +1,5 @@
-<h1 align="left">Bonjour, I am Justin</h1>
-<h3 align="left">Junior Full-Stack Developer from France, currently based in Tokyo, Japan</h3>
+<h4 align="left">Bonjour, I am Justin</h4>
+<p align="left">Junior Full-Stack Developer from France, currently based in Tokyo, Japan</p>
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li>Linkedin: <a href="https://www.linkedin.com/in/justin-etienne/">Justin Etienne</a></li>
