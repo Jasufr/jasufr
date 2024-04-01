@@ -3,7 +3,8 @@
 <h4 align="left">Connect with me:</h4>
 <div align="left">
   <ul>
-    <li>Linkedin: <a href="https://www.linkedin.com/in/justin-etienne/">Justin Etienne</a></li>
+    <li>Linkedin: <a href="https://www.linkedin.com/in/justin-etienne/">linkedin.com/in/justin-etienne</a></li>
+    <li>Wantedly: <a href="https://www.wantedly.com/id/justin_etienne">wantedly.com/id/justin_etienne</a></li>
     <li>Portfolio: <a href="https://www.justinetienne.com/">justinetienne.com</a></li>
   </ul>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasufr&show_icons=true&locale=en&layout=compact" alt="jasufr" /></p>
