@@ -8,4 +8,6 @@
     <li>Portfolio: <a href="https://www.justinetienne.com/">justinetienne.com</a></li>
   </ul>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasufr&show_icons=true&locale=en&layout=compact" alt="jasufr" /></p>
+  <br />
+  <p><img src="https://myreadme.vercel.app/api/embed/jasufr?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 </div>
