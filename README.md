@@ -1,11 +1,9 @@
-<h3 align="left">Bonjour, I am Justin 🙇🏻‍♂️</h3>
-<p align="left">Full-Stack Developer from France, currently based in Tokyo, Japan.</p>
-<h4 align="left">Connect with me:</h4>
-<div align="left">
-  <ul>
-    <li>Linkedin: <a href="https://www.linkedin.com/in/justin-etienne/">linkedin.com/in/justin-etienne</a></li>
-    <li>Wantedly: <a href="https://www.wantedly.com/id/justin_etienne">wantedly.com/id/justin_etienne</a></li>
-    <li>Portfolio: <a href="https://www.justinetienne.com/">justinetienne.com</a></li>
-  </ul>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasufr&show_icons=true&locale=en&layout=compact" alt="jasufr" /></p>
+<h2>Bonjour, I am Justin. 🙇🏻‍♂️</h2>
+<p>🥖French Full-Stack Developer, currently based in Tokyo.</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasufr&layout=donut&border_radius=1&langs_count=6&title_color=000000&text_color=000000&custom_title=Most used languages" alt="ovi" />
+<div>
+  <a href="https://www.linkedin.com/in/justin-etienne/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn"></a>
+    <a href="https://www.wantedly.com/id/justin_etienne" target="_blank"><img src="https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white&logoSize=auto" alt="Wantedly"></a>
+    <a href="https://www.justinetienne.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-AF8F6F?style=for-the-badge&logo=htmx&logoColor=white&logoSize=auto" alt="Portfolio"></a>
 </div>
